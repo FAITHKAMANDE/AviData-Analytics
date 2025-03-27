@@ -59,14 +59,13 @@ The dataset (found in the Aviation_data folder) is sourced from the National Tra
 
 6. Project Structure
    Aviation Analytics
-├── data/
-│   └── AviationData.csv   # Main dataset
-├── notebook content
-│   ├── 1.data_cleaning       *# Data cleaning & imputation*
-│   ├── 2.exploratory_analysis *# EDA & visualizations*
-│   ├── 3.risk_assessment      *# Risk calculation and assesment*
-│   └── 4.dashboards  *# Dashboard concept*
-|__ recommendations.
+- data
+  notebook content
+- 1.data_cleaning
+- 2.Data type manipulation  
+- 3.EDA
+- 4.Visulaization
+- 5.Recommendations.
 
 7. Business Recommendations
 - Fleet Selection: Prioritize aircraft with lower historical accident rates and consistent safety records.
