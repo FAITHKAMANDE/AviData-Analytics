@@ -8,11 +8,11 @@ It includes:
 - Contains fields such as: date, aircraft make , model, location, and descriptions of the accidents.
 
 # Table of Contents
-1. Project Overview
-2. Business Context
-3. Data
-4. Key Components
-5. Getting Started
+1. [Project Overview](#project-overview)
+2. [Business Context](#business-context)
+3. [Data](#data)
+4. [Key Components](#key-components)
+5. [Getting Started (#getting-started)
 6. Project Structure
 7. Business Recommendations
 
@@ -27,8 +27,10 @@ This repository demonstrates:
 
 2. Business Context
 Goal: Determine which aircraft present the lowest risk, allowing your organization to invest wisely in commercial and private aviation enterprises.
-Key Stakeholder: Who needs actionable insights to inform investment decisions.
-Focus: Using data to uncover trends, mitigate risk, and ensure safe, profitable aviation operations.
+Key Stakeholder:
+- Decision makers in the new aviation division
+- Investors seeking actionable insights for risk mitigation
+- Operations and safety teams focused on improving maintenance and training protocols
 
 3. Data 
 The dataset (found in the Aviation_data folder) is sourced from the National Transportation Safety Board (NTSB) and covers civil aviation accidents from 1962 to 2023, including:
@@ -47,7 +49,7 @@ The dataset (found in the Aviation_data folder) is sourced from the National Tra
 - Exploration of risk factors across different aircraft types
 ## Interactive Dashboards
 - Visualize aggregated metrics and trends
-- Enable filtering by timeframe, aircraft category, or risk level
+- Enable filtering by aircraft category, or risk level
 ## Business Recommendations
 - Highlight specific aircraft types/models with lower incident rates
 - Outline strategies for safer operations and maintenance
@@ -68,7 +70,13 @@ The dataset (found in the Aviation_data folder) is sourced from the National Tra
 - 5.Recommendations.
 
 7. Business Recommendations
-- Fleet Selection: Prioritize aircraft with lower historical accident rates and consistent safety records.
-- Maintenance & Training Focus: Identify recurring risk factors (e.g., mechanical failures, pilot error) and allocate resources to address them.
-- Growth Strategy: Expand the company’s fleet based on data-driven insights, mitigating risk while maximizing market opportunities.
-
+- Airplanes are the best option to invest especially in commercial use.
+- Helicopters could be considered for private use.
+- Avoid smaller aircraft unless equipped with advanced safety features.
+- Prioritize aircraft with strong safety measures during landing and takeoff.
+- Ensure aircraft have modern weather detection technology.
+- Consider acquiring business and executive aircraft.
+- Select aircraft with high durability and safety records.
+- Opt for multi-engine aircraft to enhance safety.
+- Choose modern aircraft manufactured after 2010.
+- Invest in training the safety protocols.
