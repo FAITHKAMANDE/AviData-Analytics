@@ -7,7 +7,7 @@ It includes:
 - NTSB accident data from 1962 to 2023
 - Contains fields such as: date, aircraft make , model, location, and descriptions of the accidents.
 
-# Table of Contents
+## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Business Context](#business-context)
 3. [Data](#data)
@@ -48,29 +48,29 @@ The dataset (found in the Aviation_data folder) is sourced from the National Tra
 ### Analysis & Modeling
 - Summaries of accident frequency and severity
 - Exploration of risk factors across different aircraft types
-## Interactive Dashboards
+### Interactive Dashboards
 - Visualize aggregated metrics and trends
 - Enable filtering by aircraft category, or risk level
-## Business Recommendations
+### Business Recommendations
 - Highlight specific aircraft types/models with lower incident rates
 - Outline strategies for safer operations and maintenance
 
-5. Getting Started
+## 5. Getting Started
 - Clone the repository
 - Create a virtual environment
 - Install required packages
 
-6. Project Structure
-   Aviation Analytics
+## 6. Project Structure
+### Aviation Analytics
 - data
-  notebook content
+- notebook content
 - 1.data_cleaning
 - 2.Data type manipulation  
 - 3.EDA
 - 4.Visulaization
 - 5.Recommendations.
 
-7. Business Recommendations
+## 7. Business Recommendations
 - Airplanes are the best option to invest especially in commercial use.
 - Helicopters could be considered for private use.
 - Avoid smaller aircraft unless equipped with advanced safety features.
