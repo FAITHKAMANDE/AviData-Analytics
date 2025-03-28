@@ -8,13 +8,13 @@ It includes:
 - Contains fields such as: date, aircraft make , model, location, and descriptions of the accidents.
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Business Context](#business-context)
-3. [Data](#data)
-4. [Key Components](#key-components)
-5. [Getting Started](#getting-started)
-6. [Project Structure](#project-structure)
-7. [Business Recommendations](#business-recommendations)
+1. [Project Overview](#1-project-overview)
+2. [Business Context](#2-business-context)
+3. [Data](#3-data)
+4. [Key Components](#4-key-components)
+5. [Getting Started](#5-getting-started)
+6. [Project Structure](#6-project-structure)
+7. [Business Recommendations](#7-business-recommendations)
 
 ## 1. Project Overview
    
