@@ -51,6 +51,7 @@ The dataset (found in the Aviation_data folder) is sourced from the National Tra
 ### Interactive Dashboards
 - Visualize aggregated metrics and trends
 - Enable filtering by aircraft category, or risk level
+- This is the link to the tableau visualizations [ Tableau visualization](https://public.tableau.com/app/profile/faith.kamande/viz/AircraftVisualizations/Dashboard1)
 ### Business Recommendations
 - Highlight specific aircraft types/models with lower incident rates
 - Outline strategies for safer operations and maintenance
