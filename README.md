@@ -12,11 +12,12 @@ It includes:
 2. [Business Context](#business-context)
 3. [Data](#data)
 4. [Key Components](#key-components)
-5. [Getting Started (#getting-started)
-6. Project Structure
-7. Business Recommendations
+5. [Getting Started](#getting-started)
+6. [Project Structure](#project-structure)
+7. [Business Recommendations](#business-recommendations)
 
-1. Project Overview
+## 1. Project Overview
+   
 Our  company is diversifying into new industries, specifically aviation, but needs clarity on potential risks associated with different aircraft.
 
 This repository demonstrates:
@@ -25,26 +26,26 @@ This repository demonstrates:
 - Interactive Visualizations: Building dashboards to communicate insights to non-technical stakeholders.
 - Strategic Recommendations: Advising on which aircraft to purchase based on risk profiles
 
-2. Business Context
+## 2. Business Context
 Goal: Determine which aircraft present the lowest risk, allowing your organization to invest wisely in commercial and private aviation enterprises.
 Key Stakeholder:
 - Decision makers in the new aviation division
 - Investors seeking actionable insights for risk mitigation
 - Operations and safety teams focused on improving maintenance and training protocols
 
-3. Data 
+## 3. Data 
 The dataset (found in the Aviation_data folder) is sourced from the National Transportation Safety Board (NTSB) and covers civil aviation accidents from 1962 to 2023, including:
 - Aircraft type ,make and model
 - Accident date and location
 - Accident severity and contributing factors
 
-4. Key Components
-## Data Cleaning & Imputation
+## 4. Key Components
+### Data Cleaning & Imputation
 - Handling missing values
 - Dealing with duplicates
 - Correcting data types
 - standardizing the date formarts
-## Analysis & Modeling
+### Analysis & Modeling
 - Summaries of accident frequency and severity
 - Exploration of risk factors across different aircraft types
 ## Interactive Dashboards
